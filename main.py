@@ -2,7 +2,7 @@ print("Introducción a la ingeniería en informática y sistemas")
 print("Docente: Ing. Miguel Matul")
 print("\nListado de estudiantes")
 '''1662624
-1578324
+print("Justo Geovanny Alcon Mendoza")
 1526824
 1567624
 1544424
