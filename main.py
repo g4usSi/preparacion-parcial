@@ -16,7 +16,7 @@ print("\nListado de estudiantes")
 1563824
 2427124
 1665924
-1506124
+print("Luis Oswaldo Granados de León")
 1547624
 1587624
 1675823
