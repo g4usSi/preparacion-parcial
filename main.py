@@ -7,7 +7,7 @@ print("Justo Geovanny Alcon Mendoza")
 1567624
 1544424
 1533124
-1508224
+print("Dominique Guillermo Contreras Sierra")
 1536024
 1517924
 1612823
@@ -16,7 +16,7 @@ print("Justo Geovanny Alcon Mendoza")
 1563824
 2427124
 1665924
-1506124
+print("Luis Oswaldo Granados de León")
 1547624
 1587624
 1675823
